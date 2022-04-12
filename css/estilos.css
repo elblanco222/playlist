@@ -1,0 +1,25 @@
+body{
+    background-color: rgb(74, 240, 43) ;
+}
+table{
+    
+    border-collapse: collapse;
+    border: 10px solid black;
+    width: 75%;
+}
+main{
+    display: flex;
+    justify-content: center;
+}
+th{
+    text-align: center;
+    background-color: black;
+    border: 1px solid  rgb(74, 240, 43);
+    color: ghostwhite;
+}
+td{
+    text-align: center;
+    background-color: black;
+    border: 1px solid  rgb(74, 240, 43);
+    color: white;
+}
